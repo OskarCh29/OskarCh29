@@ -29,7 +29,7 @@ Feel free to reach out to me:<br>
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oskarcharytoniuk29@gmail.com)
 
 ---
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=oskarch29.oskarch29&left_color=green&right_color=red)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oskarch29&style=for-the-badge" alt="Profile views" />
+</p>
 
