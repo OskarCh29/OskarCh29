@@ -26,7 +26,6 @@ Here are some of the projects I'm most proud of:
 
 Feel free to reach out to me:<br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oskarch/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oskarcharytoniuk29@gmail.com)
 
 ---
 <p align="center">
