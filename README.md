@@ -28,7 +28,5 @@ Feel free to reach out to me:<br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oskarch/)
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oskarch29&style=for-the-badge" alt="Profile views" />
-</p>
+
 
