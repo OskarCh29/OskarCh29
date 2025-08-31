@@ -6,10 +6,10 @@ Currently focused on Java and Spring, but aiming to grow into a versatile full-s
 
 ## :computer: Skills & Technologies
 ### Main Technologies I actively use:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,git,docker,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,git,docker,raspberrypi,postman)](https://skillicons.dev)
 
 ### Currently Learning / Planning to Explore:
-[![My Skills](https://skillicons.dev/icons?i=mongo,hibernate,linux,js,html,css,bootstrap,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongo,hibernate,linux,js,html,css,bootstrap,kafka,gradle)](https://skillicons.dev)
 
 ### Problem solving:
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/2Oskar9/)
