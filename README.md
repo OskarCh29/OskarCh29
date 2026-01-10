@@ -8,7 +8,7 @@ I focus on clean architecture, realistic business logic and step-by-step project
 
 ## :computer: Skills & Technologies
 ### Main Technologies I actively use:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,git,docker,raspberrypi,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,git,docker,raspberrypi,postman,redis)](https://skillicons.dev)
 
 ### Currently Learning / Planning to Explore:
 [![My Skills](https://skillicons.dev/icons?i=mongo,hibernate,linux,js,html,css,react,kafka,gradle)](https://skillicons.dev)
