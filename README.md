@@ -11,7 +11,7 @@ I focus on clean architecture, realistic business logic and step-by-step project
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,git,docker,raspberrypi,postman,redis)](https://skillicons.dev)
 
 ### Currently Learning / Planning to Explore:
-[![My Skills](https://skillicons.dev/icons?i=mongo,hibernate,linux,js,html,css,react,kafka,gradle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongo,hibernate,linux,js,html,css,react,kafka,gradle,kotlin)](https://skillicons.dev)
 
 ### Problem solving:
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/2Oskar9/)
